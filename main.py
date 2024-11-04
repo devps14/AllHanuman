@@ -4,7 +4,7 @@ import time
 import urllib.request
 
 # Replace with your YouTube stream key
-youtube_stream_key = "yxys-x4qa-rbv6-rsub-2j2d"
+youtube_stream_key = "y7y6yygujghvgbhvgty2j2d"
 
 # List of video URLs from Bitrix24
 video_urls = [
